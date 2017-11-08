@@ -36,3 +36,47 @@ body {background-color: #f9f9f9;}
 	text-decoration: none;
 	color: white;
 }
+
+.content input{
+	float: left;
+}
+
+.star{
+	color: red;
+}
+
+.row1 .col-lg-7 .dropdown{
+	display: inline-block;
+	float: left;
+}
+
+.row1 .col-lg-7 .in{
+	padding-right: 0;
+	padding-left: 0px;
+	display: inline-block;
+	float: left;
+}
+
+.bottom-bar{
+	height: auto;
+	background-color: #21540f;
+	color: white;
+	text-align: center;
+	border-top: 2px solid yellow;
+	padding-top: 8px;
+	font-size: 12px;
+}
+
+.col-lg-11{
+	padding: 3px;
+}
+ 
+.Patient{
+	font-color: gray;
+}
+ 
+ 
+
+ .btn1{
+ 	outline-offset: 10px;
+ }
